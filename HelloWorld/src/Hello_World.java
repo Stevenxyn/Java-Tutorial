@@ -23,7 +23,6 @@ public class Hello_World {
 
 		int edad;
 		edad = 9;
-
 		if (edad > 10) {
 			edad = 69;
 			System.out.println(edad);
