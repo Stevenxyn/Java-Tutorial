@@ -16,7 +16,7 @@ public class Identificadores {
 		int $ = 1;
 		
 		System.out.println("La suma de '__' y '___' es: " + (__ + ___));
-		System.out.println("La resta de '___1' y '$' xjes: " + (___1 - $) );
+		System.out.println("La resta de '___1' y '$' es: " + (___1 - $) );
 	}
 	
 }

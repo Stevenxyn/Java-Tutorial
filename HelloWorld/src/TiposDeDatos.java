@@ -16,5 +16,16 @@ public class TiposDeDatos {
 		System.out.println("Identification number is: " + identification);
 		// identification = 1234567890; ERROR
 		
+		System.out.println("Tipos de datos");
+		boolean isActive = true;
+		byte tamanio = 29;
+		short superficieHabitable = 1390;
+		long distancia = 192916267l;
+		float salary = 1800.500f;
+		double supercicie = 1000000.28271;
+		
+				
+		
+		
 	}
 }
