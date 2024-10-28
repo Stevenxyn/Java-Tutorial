@@ -21,6 +21,7 @@ public class ejercicio2_numeroPromedio {
 
     public static void main(String[] args) throws IOException {
 
+        //De esta manera se importa una funcion de otra clase "tener en cuenta que sea publica" 
         funciones cargarnumero = new funciones();
 
         System.out.print("Escribe el primer numero: ");
