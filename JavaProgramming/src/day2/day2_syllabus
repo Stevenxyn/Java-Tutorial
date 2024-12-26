@@ -1,0 +1,47 @@
+Variable is a container which can hold data
+to represent data we need variables
+
+int x = 100
+int age = 25
+float price = 150.41
+double price = 150.41
+String name = "Steven"
+char sex = 'F'
+
+
+Data types
+---------------------------
+Data type represents type of data 
+
+1. Primitive data types
+
+byte, short, int, long --> number without decimal
+float, double ---> decimal number
+char ----> single character (single quote)
+boolean ---> true/false
+
+
+2. Non-Primitive data types / Derived / Collections
+String
+ArrayList
+HashMap
+HashSet
+etc... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
