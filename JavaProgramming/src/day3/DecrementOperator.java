@@ -1,10 +1,10 @@
 package day3;
 
-public class test {
+public class DecrementOperator {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("test #2");
+
 	}
 
 }
