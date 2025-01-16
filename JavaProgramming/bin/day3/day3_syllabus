@@ -1,0 +1,18 @@
+Day-3
+--
+Operators
+--
+Operators is a symbol which will perform an operation.
+
+Example:
+
+int a = 10;
+int b = 11;
+
+int x = a + b;
+
+a,b are called operands
++  = operators
+
+Types of operators
+---------------
