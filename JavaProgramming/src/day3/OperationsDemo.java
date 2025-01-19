@@ -36,7 +36,7 @@ public class OperationsDemo {
 
 		boolean x = true;
 		boolean z = false;
-		
+		 
 		// Retorna true si ambas condiciones son verdaderas
 		System.out.println("Operator &&: " + (x && z));
 

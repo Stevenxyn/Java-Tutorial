@@ -19,7 +19,7 @@ public class TernaryOperator {
 		System.out.println(ageValidation ? "Adult" : "not an adult");
 
 		System.out.println("**********************************");
-
+ 
 		// Example #2
 		int x = (1 == 2) ? 100 : 200;
 		System.out.println(x);

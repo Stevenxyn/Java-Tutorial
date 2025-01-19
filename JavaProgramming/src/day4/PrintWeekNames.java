@@ -27,6 +27,7 @@ public class PrintWeekNames {
 			System.out.print("Week Number invalid");
 		}
 
-	}
+
+}
 
 }
