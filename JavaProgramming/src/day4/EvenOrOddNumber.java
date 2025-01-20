@@ -10,7 +10,7 @@ public class EvenOrOddNumber {
 			System.out.println("Number Even: " +  validation);
 		}else {
 			System.out.println("Number Odd: " + validation);
-		}
+		} 
 		
 		
 	}
