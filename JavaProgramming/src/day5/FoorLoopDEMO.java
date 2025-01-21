@@ -4,8 +4,10 @@ public class FoorLoopDEMO {
 
 	public static void main(String[] args) {
 
+		for (int i = 1; i <= 1000000; i++) {
+			System.out.println(i);
+		}
 
-		//VAMOSS Hoy terminas la clase de loops y ves las dos de arrays, lo olvides ir a clase de ingles hazlo por mom 
 	}
 
 }

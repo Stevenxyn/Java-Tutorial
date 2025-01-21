@@ -1,0 +1,12 @@
+Day - 5
+-----------
+Loop or iteration - executing same set statements multiple times
+
+1. while
+2. do while
+3. for loop
+
+
+for(initilization; condition; increment/decrement){
+statement
+{
